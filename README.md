@@ -1,4 +1,4 @@
 kotlin-android-hello
 ====================
 
-Kotlin's "Hello, world!" on Android
+It is a simple "Hello World" program in kotlin written in android studio ide help in learning kotlin for beginee
